@@ -2,7 +2,7 @@
 
 A small GPT-style language model, written from scratch in PyTorch and trained on Fernando Pessoa's English poems to generate new verse in his style.
 
-> Originally built in March–April 2024 as a university project at FEUP (University of Porto). Cleaned up and reorganised in October 2026.
+> Originally built in March-April 2024 as a university project at FEUP (University of Porto). Cleaned up and reorganised in October 2026.
 
 ## Problem
 
