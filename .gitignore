@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+checkpoints/
+*.pkl
+*.pt
+notebooks/fernando_pessoa_tokenizer.json
